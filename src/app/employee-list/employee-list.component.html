@@ -1,0 +1,29 @@
+<h1 class="page-header">Employee List</h1>
+
+      <div class="row placeholders">
+        <div class="col-xs-6  placeholder">
+            <table class="table table-bordered">
+                <thead>
+                  <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                    <th>Gender</th>
+                    <th>Date Of Birth</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let employee of employeeList">
+                    <td>{{employee.firstName}}</td>
+                    <td>{{employee.lastName}}</td>
+                    <td>{{employee.gender}}</td>
+                    <td>{{employee.dateOfBirth}}</td>
+
+                  </tr>
+                  </tbody>
+                  </table>
+                  </div>
+
+
+
+
+        </div>

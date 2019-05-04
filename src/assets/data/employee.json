@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Usman",
+    "lastName": "Shaik",
+    "gender": "Male",
+    "dateOfBirth": "18-APR-1992"
+  },
+  {
+    "firstName": "user02",
+    "lastName": "user002",
+    "gender": "Male",
+    "dateOfBirth": "18-APR-1992"
+  },
+  {
+    "firstName": "user03",
+    "lastName": "user003",
+    "gender": "Male",
+    "dateOfBirth": "18-APR-1992"
+  },
+  {
+    "firstName": "user04",
+    "lastName": "user004",
+    "gender": "Male",
+    "dateOfBirth": "18-APR-1992"
+  }
+]
